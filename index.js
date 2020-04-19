@@ -1,2 +1,3 @@
 console.error("TOMA!")
-Console.log("reinsert your card")
+console.log("reinsert your card")
+
